@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "128551185377",
+    "firebase_url": "https://pushapp-d131a.firebaseio.com",
+    "project_id": "pushapp-d131a",
+    "storage_bucket": "pushapp-d131a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128551185377:android:182752bce9773dcf",
+        "android_client_info": {
+          "package_name": "com.omobio.pushapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128551185377-bmou2u7c539qrlun3ng5oaor65lo491k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH-W6HuABHiW31c5Uay2re2A91ptv8UFM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
