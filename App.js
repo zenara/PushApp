@@ -1,11 +1,4 @@
-/**
- * Sample React Native App
- * https://github.com/facebook/react-native
- *
- * @format
- * @flow
- */
-
+// notification app
 import React, {Component} from 'react';
 import {Platform, StyleSheet, Text, View} from 'react-native';
 
@@ -14,6 +7,7 @@ const instructions = Platform.select({
   android:
     'Double tap R on your keyboard to reload,\n' +
     'Shake or press menu button for dev menu',
+  'App for Mobile Notifications'
 });
 
 type Props = {};
@@ -37,9 +31,9 @@ const styles = StyleSheet.create({
     backgroundColor: '#F5FCFF',
   },
   welcome: {
-    fontSize: 20,
+    fontSize: 21,
     textAlign: 'center',
-    margin: 10,
+    margin: 11,
   },
   instructions: {
     textAlign: 'center',
